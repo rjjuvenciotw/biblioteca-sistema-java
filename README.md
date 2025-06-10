@@ -1,7 +1,6 @@
 # biblioteca-sistema-java
 
-Esse texto aborda informações de desenvolvimento de um programa que gerencia um 
-sistema de biblioteca, desenvolvido em Java podendo trabalhar com usuários, livros e 
+Programa que gerencia um sistema de biblioteca, desenvolvido em Java podendo trabalhar com usuários, livros e 
 empréstimos como entidades principais, através da orientação a objetos e manipulação de 
 dados, podendo salvar dados de transações de livros, opções de prazo, cadastro de 
 usuários(alunos, professores e funcionários), o programa funciona essencialmente com esses 
